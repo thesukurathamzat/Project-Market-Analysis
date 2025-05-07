@@ -1,4 +1,4 @@
-# Project-Market-Analysis
+# Sales-Market-Analysis
 
 ![sales](https://github.com/thesukurathamzat/Project-Market-Analysis/blob/main/sales.jpeg)
 
