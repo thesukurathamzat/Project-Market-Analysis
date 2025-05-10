@@ -1,6 +1,6 @@
 # Sales-Market-Analysis
 
-![](https://github.com/thesukurathamzat/Project-Market-Analysis/blob/main/sales.jpeg)
+![Sales Dashboard](https://raw.githubusercontent.com/thesukurathamzat/Project-Market-Analysis/main/sales.jpeg)
 
 ## Introduction
 This Excel-based Retail Sales Dashboard is designed to provide the Sales Director with a clear and actionable overview of sales performance across key metrics. It highlights total revenue, sales trends over time, top-performing products, regional breakdowns, and customer segments. 
@@ -32,7 +32,10 @@ Conditional Formatting (for highlighting key insights)
 Data Visualization; Charts & Graphs
 
 ## Visualization & Analysis
-![sales table](https://github.com/thesukurathamzat/Sales-Market-Analysis/blob/main/First%20Excel%20project%20assignment.png)
+![Sales Dashboard](https://raw.githubusercontent.com/thesukurathamzat/Sales-Market-Analysis/blob/main/First%20Excel%20project%20assignment.png)
+
+![Sales Dashboard](FirstExcelProject.png)
+
 
 ## Analysis
 
