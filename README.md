@@ -32,9 +32,7 @@ Conditional Formatting (for highlighting key insights)
 Data Visualization; Charts & Graphs
 
 ## Visualization & Analysis
-![Sales Dashboard](https://raw.githubusercontent.com/thesukurathamzat/Sales-Market-Analysis/blob/main/First%20Excel%20project%20assignment.png)
-
-![Sales Dashboard](FirstExcelProject.png)
+![Sales Dashboard](https://raw.githubusercontent.com/thesukurathamzat/Sales-Market-Analysis/main/First%20Excel%20project%20assignment.png)
 
 
 ## Analysis
